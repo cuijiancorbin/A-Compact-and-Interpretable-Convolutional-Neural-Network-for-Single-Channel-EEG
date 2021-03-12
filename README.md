@@ -1,6 +1,2 @@
-# A Compact and Interpretable C
-dfgdfsg
+# A Compact and Interpretable Convolutional Neural Network for Cross-Subject Driver Drowsiness Detection from Single-Channel EEG 
 
-asdfasdf
-
-sagd
