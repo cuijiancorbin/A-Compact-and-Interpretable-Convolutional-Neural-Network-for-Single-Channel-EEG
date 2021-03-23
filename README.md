@@ -2,6 +2,10 @@
 
 The descriptions will be updated soon.
 
+
+The dataset has been uploaded to my personal online drive, and it can be downloaded from:
+https://entuedu-my.sharepoint.com/:u:/g/personal/cuijian_staff_main_ntu_edu_sg/EbJ5xncBMR9AijW5GjYOr9YBwCd5nT20rt-2-A438ScBsQ?e=XZaa68
+
  THe data file contains 3 variables and they are EEGsample, substate and subindex.
  "EEGsample" contains 2022 EEG samples of size 20x384 from 11 subjects. 
  Each sample is a 3s EEG data with 128Hz from 30 EEG channels.
