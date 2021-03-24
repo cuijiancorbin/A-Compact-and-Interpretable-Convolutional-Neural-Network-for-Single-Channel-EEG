@@ -18,4 +18,4 @@ required library:torch,scipy,numpy,matplotlib,mne
 The processed dataset has been uploaded to:
 https://figshare.com/articles/dataset/EEG_driver_drowsiness_dataset/14273687
 
-
+If you have any problems, please Contact Dr. Cui Jian at cuij0006@ntu.edu.sg
