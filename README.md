@@ -2,9 +2,11 @@
 
 Pytorch implementation of the paper "A Compact and Interpretable Convolutional Neural Network for Cross-Subject Driver Drowsiness Detection from Single-Channel EEG".
 
+If you find the codes useful, pls cite the paper:
+
 "Jian Cui, Zirui Lan, Yisi Liu, Ruilin Li, Fan Li, Olga Sourina, Wolfgang Müller-Wittig,
 A Compact and Interpretable Convolutional Neural Network for Cross-Subject Driver Drowsiness Detection from Single-Channel EEG,
-Methods, 2021, ISSN 1046-2023,https://doi.org/10.1016/j.ymeth.2021.04.017."
+Methods, 2021, ISSN 1046-2023, https://doi.org/10.1016/j.ymeth.2021.04.017."
 
 
 The project contains 3 code files. They are implemented with Python 3.6.6.
